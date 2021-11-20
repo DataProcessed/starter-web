@@ -16,10 +16,10 @@ This is a project that could be deployed on any web server
 
 ##How To Contribute
 
-###Copyright
+###Copyright Notice
 
-2021 DataProcessed
-
+DataProcessed 2021
+DataProcessed 2021 v2.0
 
 
 
