@@ -2,7 +2,6 @@
 
 This is a simple website showing demonstration of Git commands
 
-
 ##Introduction
 
 This is introduction
@@ -17,7 +16,9 @@ This is a project that could be deployed on any web server
 
 ##How To Contribute
 
+###Copyright
 
+2021 DataProcessed
 
 
 
