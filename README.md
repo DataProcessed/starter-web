@@ -1,21 +1,21 @@
-#Starter Web Project
+# Starter Web Project
 
 This is a simple website showing demonstration of Git commands
 
 
-##Introduction
+## Introduction
 
 This is introduction
 
-##Purpose
+## Purpose
 
 The purpose is to understand how git commands work
 
-##Deployment
+## Deployment
 
 This is a project that could be deployed on any web server
 
-##How To Contribute
+## How To Contribute
 
 
 
