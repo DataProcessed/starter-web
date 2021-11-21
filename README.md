@@ -16,6 +16,8 @@ This is a project that could be deployed on any web server
 
 ##How To Contribute
 
+Simply Fork this repository and then issue pull requests for review purposes.
+
 ###Copyright Notice
 
 DataProcessed 2021
