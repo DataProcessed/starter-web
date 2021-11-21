@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dattaprasad Shetve Firmware Engineer @Data_Processed
 
 # THANKS
 
