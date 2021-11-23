@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This is a simple website showing demonstration of Git commands. Adding a line for rebasing example!!
+This is a simple website showing demonstration of Git commands. Adding a line for rebasing example!! 
+And more changes from myfeature branch too!
 
 ## Introduction
 
