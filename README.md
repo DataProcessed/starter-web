@@ -22,7 +22,7 @@ Simply Fork this repository and then issue pull requests for review purposes.
 ###Copyright Notice
 
 DataProcessed 2021
-DataProcessed 2021 v2.0
+DataProcessed 2021 v2.0. All rights reserved.
 
 
 
